@@ -23,6 +23,10 @@ $\color{#c880ff}{\textsf{they/}}$
 <p align="center"> 
   <a href="https://janeowm.atabook.org/"> atabook</a>
 </p>
-<p align="center"> 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31afi67rhjvwhsyudu6t7yug3voa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=534c42&bar_color_cover=false">
+
+ <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31afi67rhjvwhsyudu6t7yug3voa&cover_image=false&theme=novatorem&show_offline=true&background_color=32244c&interchange=false&profanity=false&hide_remaster=false&bar_color=ddbde5&bar_color_cover=true">
+  </a>
+</p>
 
